@@ -11,14 +11,14 @@
 
 <b>com.backend.backend</b>   - consists the main Application file from here a spring boot application starts running.<br>
 <b>com.backend.backend/config</b> - Security configuration<br>
-<b>com.backend.backend/controller</b> - Different Controllers for getting Authentication, Authorization and Serving Rest Api's Based on requests
+<b>com.backend.backend/controller</b> - Different Controllers for getting Authentication, Authorization and Serving Rest Api's Based on requests<br>
 <b>com.backend.backend/repository</b> - Connection to DB and Queries to DB based on controllers and application requirments.<br>
 <b>com.backend.backend/secuirty</b> - Authentication of Users Based on Jwt, Generating Jwt Based on its expiration on user front.<br>
 <b>com.backend.backend/Model</b> - Schema's For Data Quering to the DB <br>
 <b>com.backend.backend/exception's</b> - Throw's various Error Exception's like Authentication Failure etc..<br>
 <b>com.backend.backend/payload</b> - Contains Schema's For Data send through front-end.<br>
 
-main/resources - Contains connection details to DB using Hibernet and Jwt Token properties.<br>  	
+<b>main/resources</b> - Contains connection details to DB using Hibernet and Jwt Token properties.<br>  	
 		
 
 
