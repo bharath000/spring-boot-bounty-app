@@ -9,16 +9,16 @@
 
 <b>Backend/Src contains the Main folder:</b>
 
-com.backend.backend   - consists the main Application file from here a spring boot application starts running.
-com.backend.backend/config - Security configuration
-com.backend.backend/controller - Different Controllers for getting Authentication, Authorization and Serving Rest Api's Based on requests
-com.backend.backend/repository - Connection to DB and Queries to DB based on controllers and application requirments.
-com.backend.backend/secuirty - Authentication of Users Based on Jwt, Generating Jwt Based on its expiration on user front.
-com.backend.backend/Model - Schema's For Data Quering to the DB 
-com.backend.backend/exception's - Throw's various Error Exception's like Authentication Failure etc..
-com.backend.backend/payload - Contains Schema's For Data send through front-end.
+<br>com.backend.backend</br>   - consists the main Application file from here a spring boot application starts running.<br>
+<br>com.backend.backend/config</br> - Security configuration<br>
+<br>com.backend.backend/controller</br> - Different Controllers for getting Authentication, Authorization and Serving Rest Api's Based on requests
+<br>com.backend.backend/repository</br> - Connection to DB and Queries to DB based on controllers and application requirments.<br>
+<br>com.backend.backend/secuirty</br> - Authentication of Users Based on Jwt, Generating Jwt Based on its expiration on user front.<br>
+<br>com.backend.backend/Model</br> - Schema's For Data Quering to the DB <br>
+<br>com.backend.backend/exception's</br> - Throw's various Error Exception's like Authentication Failure etc..<br>
+<br>com.backend.backend/payload</br> - Contains Schema's For Data send through front-end.<br>
 
-main/resources - Contains connection details to DB using Hibernet and Jwt Token properties.  	
+main/resources - Contains connection details to DB using Hibernet and Jwt Token properties.<br>  	
 		
 
 
